@@ -1,8 +1,8 @@
-package sol;
+package test;
 
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
+import sol.Dillo;
 import src.Email;
 
 public class HW0Test {
